@@ -538,10 +538,10 @@ footer .footer2 .copy p{
 }
 
 footer .footer2 .copy span{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    font-style: italic;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    font-style: oblique;
     color: var(--main-color);
     text-transform: uppercase;
 }
